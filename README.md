@@ -27,6 +27,9 @@ Here're some of the project's best features:
 <h2>Screenshots:</h2>
 <p><a href="https://github.com/Nostorian/spade-onliner/tree/main/screenshots">Click here</a> for project screenshots.</p>
 
+## For the Skids
+I hope you end up on the streets.
+
 ## Support
 
 For support, open an issue here or hit me up on discord at `nostorian`
