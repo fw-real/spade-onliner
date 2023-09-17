@@ -28,7 +28,7 @@ Here're some of the project's best features:
 <p><a href="https://github.com/Nostorian/spade-onliner/tree/main/screenshots">Click here</a> for project screenshots.</p>
 
 ## For the Skids
-I hope you end up on the streets.
+I sincerely hope that your pathetic existence leads you down a path of destitution, where you find yourself begging on the streets, scrounging for scraps like the worthless piece of garbage you truly are.
 
 ## Support
 
