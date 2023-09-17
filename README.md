@@ -20,13 +20,13 @@ Here're some of the project's best features:
 
 <p>3. Execute the main script with <code>python main.py</code>.</p>
 
+<h2>Screenshots:</h2>
+<p><a href="https://github.com/Nostorian/spade-onliner/tree/main/screenshots">Click here</a> for project screenshots.</p>
 
 
 <h2>License:</h2>
 
 This project is licensed under the MIT
 
-<h2>Screenshots:</h2>
-<p><a href="https://github.com/Nostorian/spade-onliner/tree/main/screenshots">Click here</a> for project screenshots.</p>
 
 
