@@ -14,11 +14,11 @@ Here're some of the project's best features:
 
 <h2>Installation Steps:</h2>
 
-<p>1. Add your tokens in the `tokens.txt` file.</p>
+<p>1. Add your tokens in the <code>tokens.txt</code> file.</p>
 
-<p>2. Install the required dependencies by running `pip install -r requirements.txt`.</p>
+<p>2. Install the required dependencies by running <code>pip install -r requirements.txt</code>.</p>
 
-<p>3. Execute the main script with `python main.py`.</p>
+<p>3. Execute the main script with <code>python main.py</code>.</p>
 
 
 
