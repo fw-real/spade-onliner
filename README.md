@@ -20,8 +20,16 @@ Here're some of the project's best features:
 
 <p>3. Execute the main script with <code>python main.py</code>.</p>
 
+## Roadmap
+- [x] Add VC Spammer
+- [ ] Add Proxy Support
+
 <h2>Screenshots:</h2>
 <p><a href="https://github.com/Nostorian/spade-onliner/tree/main/screenshots">Click here</a> for project screenshots.</p>
+
+## Support
+
+For support, open an issue here or hit me up on discord at `nostorian`
 
 
 <h2>License:</h2>
