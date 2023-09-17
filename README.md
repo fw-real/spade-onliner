@@ -27,6 +27,6 @@ Here're some of the project's best features:
 This project is licensed under the MIT
 
 <h2>Screenshots:</h2>
-<p><a href="https://www.example.com" target="_blank">Click here</a> for project screenshots.</p>
+<p><a href="https://github.com/Nostorian/spade-onliner/tree/main/screenshots">Click here</a> for project screenshots.</p>
 
 
