@@ -2,6 +2,7 @@
 
 <p id="description">This tool makes it easy to use your tokens go online and hop into voice calls (VC) whenever you want.</p>
 <h4><b>UPDATE: </b>12th May 2024 - Remains unpatched onliner/vc-joiner works as expected. Might be a few bugs here and there with logging but continues to do the main job well.</h4>
+<h4>If any bugs found, kindly open an issue/pr as you like.</h4>
 
   
   
@@ -10,7 +11,7 @@
 Here're some of the project's best features:
 
 *   A built-in token checker to ensure smooth operation.
-*   Seamless token onlining and joining VCs without any patches as of September 2023.
+*   Seamless token onlining and joining VCs without any patches as of May 2024.
 
 <h2>Installation Steps:</h2>
 
