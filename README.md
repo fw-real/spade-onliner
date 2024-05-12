@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Spade Onliner</h1>
 
 <p id="description">This tool makes it easy to use your tokens go online and hop into voice calls (VC) whenever you want.</p>
-
+<h4><b>UPDATE: </b>12th May 2024 - Remains unpatched onliner/vc-joiner works as expected. Might be a few bugs here and there with logging but continues to do the main job well.</h4>
 
   
   
