@@ -38,7 +38,7 @@ For support, open an issue here or hit me up on discord at `nostorian`
 
 <h2>License:</h2>
 
-This project is licensed under the MIT
+This project is licensed under the GPL-3.0
 
 
 
