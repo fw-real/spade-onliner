@@ -1,4 +1,4 @@
-# this code is crafted with hands by nostorian
+# this code is crafted with hands by nostorian | dc: @fw.nos
 
 import os
 import json
