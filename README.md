@@ -33,7 +33,7 @@ I sincerely hope that your pathetic existence leads you down a path of destituti
 
 ## Support
 
-For support, open an issue here or hit me up on discord at `nostorian`
+For support, open an issue here or hit me up on discord at `@fw.nos`
 
 
 <h2>License:</h2>
