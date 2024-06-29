@@ -153,7 +153,7 @@ def onliner(status, token, pid):
             "game": {
                 "name": "Spade Onliner",
                 "type": 0,
-                "details": "discord: nostorian"
+                "details": "discord: @fw.nos"
             },
         "status": "unknown",
         "since": 0,
@@ -212,7 +212,7 @@ def vc_spammer(token, gid, vcid , pid):
                     "game": {
                         "name": "Spade Onliner",
                         "type": 0,
-                        "details": "discord: nostorian"
+                        "details": "discord: @fw.nos"
                     },
                     "status": "unknown",
                     "since": 0,
