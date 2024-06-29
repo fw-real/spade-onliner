@@ -73,7 +73,7 @@ def main():
 ┗┛┛┗┗┗┛┗┗ ┛     
 """
     print(f"{Fore.RED}{banner}{Fore.RESET}")
-    print(f"{Fore.LIGHTMAGENTA_EX}discord: {Fore.LIGHTCYAN_EX}nostorian{Fore.RESET}\n\n")
+    print(f"{Fore.LIGHTMAGENTA_EX}discord: {Fore.LIGHTCYAN_EX}fw.nos{Fore.RESET}\n\n")
     print(f"1. {Fore.LIGHTGREEN_EX} Online Tokens{Fore.RESET}")
     print(f"2. {Fore.LIGHTGREEN_EX} VC Spammer{Fore.RESET}")
     print(f"3. {Fore.LIGHTGREEN_EX} Exit Tool{Fore.RESET}\n")
